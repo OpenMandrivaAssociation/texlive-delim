@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-delim
 Version:	20111104
-Release:	4
+Release:	5
 Summary:	TeXLive delim package
 Group:		Publishing
 URL:		http://tug.org/texlive
