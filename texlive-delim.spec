@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-delim
-Version:	20170414
+Version:	1.0
 Release:	1
 Summary:	TeXLive delim package
 Group:		Publishing
