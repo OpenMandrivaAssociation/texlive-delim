@@ -1,6 +1,6 @@
 Name:		texlive-delim
 Version:	23974
-Release:	1
+Release:	2
 Summary:	TeXLive delim package
 Group:		Publishing
 URL:		http://tug.org/texlive
